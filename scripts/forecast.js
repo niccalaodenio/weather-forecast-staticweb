@@ -1,4 +1,4 @@
-const API_key = 'x7vK27plIzXNJumBpvw6Z3dNub9yszoh'
+const API_key = 'G8xT2HdX2cbBHa8QRWWW41ax2S9irS73'
 
 // getting city info
 let getCity = async (city)=>{
